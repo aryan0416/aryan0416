@@ -5,7 +5,7 @@ BE CSE (AI & ML) @ Chandigarh University | AI/ML • Embedded Systems • Resear
 </h3>
 
 <p align="center">
-📍 Sonipat, Haryana, India • 📧 aryandahiya0416@gmail.com • 🌐 <a href="https://www.linkedin.com/in/aryan-dahiya">LinkedIn</a> • 🖥️ <a href="https://aryan-portfolio-nine-inky.vercel.app/">Portfolio</a>
+📍 Chandigarh, India • 📧 aryandahiya0416@gmail.com • 🌐 <a href="https://www.linkedin.com/in/aryan-dahiya">LinkedIn</a> • 🖥️ <a href="https://aryan-portfolio-nine-inky.vercel.app/">Portfolio</a>
 </p>
 
 ---
