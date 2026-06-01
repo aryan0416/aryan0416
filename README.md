@@ -77,7 +77,7 @@ BE CSE (AI & ML) @ Chandigarh University | AI/ML • Embedded Systems • Resear
   <a href="mailto:aryandahiya0416@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="buildwitharyan.xyz">
+  <a href="https://buildwitharyan.xyz">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
