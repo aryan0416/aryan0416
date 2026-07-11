@@ -97,7 +97,7 @@ signal: aryandahiya0416@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan0416&theme=react-dark&hide_border=true&area=true&bg_color=0d0221&color=00fff9&line=ff00c8&point=ffffff" width="100%"/>
 </div>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,100:00fff9&height=6&width=100%25" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,100:00fff9&height=6&width=100%25" width="100%"/> 
 
 ### ⚙️ Loadout
 
