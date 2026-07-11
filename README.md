@@ -1,86 +1,132 @@
-<h1 align="center">Hey 👋 I'm Aryan Dahiya</h1>
+<div align="center">
 
-<h3 align="center">
-BE CSE (AI & ML) @ Chandigarh University | AI/ML • Embedded Systems • Research • Web Dev
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Aryan%20Dahiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Research%20%E2%80%A2%20Web%20Dev&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-📍 Chandigarh, India • 📧 aryandahiya0416@gmail.com • 🌐 <a href="https://www.linkedin.com/in/aryan-dahiya">LinkedIn</a> • 🖥️ <a href="https://aryan-portfolio-nine-inky.vercel.app/">Portfolio</a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=BE+CSE+(AI+%26+ML)+%40+Chandigarh+University;Building+with+Deep+Learning+%26+Computer+Vision;Tinkering+with+ESP32+%2F+IoT;Exploring+Post-Quantum+Cryptography;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aryan0416&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/aryan0416?label=Followers&style=for-the-badge&color=2c5364" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="status" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 CSE Student specializing in **AI & ML** at Chandigarh University (in association with IBM)
-- 🤖 Interested in **Deep Learning, Computer Vision, Embedded Systems (ESP32/IoT)**  
-- 🛰️ Exploring **Satellite Data Analysis** and **Post-Quantum Cryptography**
-- 📢 Love **Research + Technical Presentations** and building impactful tech
-
----
-
-### 🧠 Key Interests
-✅ AI/ML & Deep Learning  
-✅ Embedded Systems (ESP32, IoT)  
-✅ Research & Technical Presentations  
-✅ Cryptography & Cybersecurity  
-✅ Sustainable Tech & Innovation  
-
----
-
-### ⚙️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="pytorch" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cpp" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="55" alt="streamlit" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws" />
 </div>
 
 ---
 
-### 🔥 Projects / Focus Areas
-- ✅ **ResumeAI Pro** — ATS Resume Screening & Optimization Tool
-- 🛰️ **Satellite Air Quality Downscaling using AI/ML**
-- 📡 **RFID Attendance System using ESP32 + Google Sheets**
-- 🧠 Research: **Explainable + Robust Deep Learning for Trustworthy AI**
-- 🔐 Post-Quantum Crypto: **Kyber / Dilithium (NIST PQC)**
+### 🧬 `whoami`
+
+```yaml
+name: Aryan Dahiya
+role: CSE (AI & ML) Undergrad @ Chandigarh University (w/ IBM)
+location: Chandigarh, India
+focus: [Deep Learning, Computer Vision, Embedded Systems, PQC, Satellite Data]
+currently_exploring: "Explainable & Robust Deep Learning for Trustworthy AI"
+fun_fact: "Trained a CNN before I could legally vote responsibly with my sleep schedule"
+reach_me: aryandahiya0416@gmail.com
+```
 
 ---
 
-### 🏆 Experience Highlights
-- 🔹 **IBM AIML Intern (PBEL)** — Dog vs Cat Classification using CNNs (TensorFlow/Keras)
-- 🔹 **IEEE Robotics & Automation Society Internship** — Embedded Systems + IoT + PCB Designing
-- 🔹 IEEE Chandigarh University — Core Team Member
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryan0416/aryan0416/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
+  <sub>⚙️ Auto-generated daily via GitHub Actions — see setup note at the bottom</sub>
+</div>
 
 ---
 
-### 🌐 Connect with Me
+### 📊 The Numbers
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryan0416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan0416&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan0416&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan0416&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan0416&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+### ⚙️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,js,react,nodejs,streamlit,aws,git,arduino,cpp" height="55"/>
+</div>
+
+---
+
+### 🔥 Flagship Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 ResumeAI Pro**
+ATS resume screening & optimization tool that scores and rewrites resumes against job descriptions.
+
+</td>
+<td width="50%" valign="top">
+
+**🛰️ Satellite Air Quality Downscaling**
+AI/ML pipeline that turns coarse satellite data into high-resolution air quality estimates.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📡 RFID Attendance System**
+ESP32-powered attendance logger streaming straight into Google Sheets in real time.
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Post-Quantum Crypto Playground**
+Hands-on work with NIST PQC finalists — Kyber & Dilithium.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Track Record
+
+```
+2025 — IBM AIML Intern (PBEL)            → CNN-based Dog vs Cat Classifier (TensorFlow/Keras)
+2024 — IEEE RAS Internship               → Embedded Systems, IoT, PCB Design
+2023 — IEEE Chandigarh University        → Core Team Member
+```
+
+---
+
+### 🌐 Let's Build Something
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-dahiya">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
   </a>
   <a href="mailto:aryandahiya0416@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30"/>
   </a>
   <a href="https://buildwitharyan.xyz">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="30"/>
   </a>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
+</div>
