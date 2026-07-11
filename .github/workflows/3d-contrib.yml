@@ -1,9 +1,12 @@
-name: Generate 3D Contribution Skyline
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # runs once a day
+    - cron: "0 18 * * *"   # 18:00 UTC daily
   workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -11,9 +14,18 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
+      - uses: actions/checkout@v5
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: aryan0416
+          USERNAME: aryan0416
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then git push; fi
