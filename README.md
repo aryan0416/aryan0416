@@ -1,6 +1,20 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="15%" align="left">
+<img src="https://img.shields.io/badge/SECTOR-CHD__IND-ff00c8?style=flat-square&labelColor=0d0221" /><br/>
+<img src="https://img.shields.io/badge/CLASS-AI/ML__ENGINEER-00fff9?style=flat-square&labelColor=0d0221" />
+</td>
+<td width="70%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:ff00c8,50:00fff9,75:ff00c8,100:0d0221&height=250&section=header&text=ARYAN%20DAHIYA&fontSize=62&fontColor=00fff9&animation=twinkling&fontAlignY=35&desc=%3C%20AI%2FML%20ENGINEER%20%2F%2F%20RESEARCHER%20%2F%2F%20CYBERDECK%3AACTIVE%20%3E&descAlignY=58&descSize=17&descColor=ff00c8" width="100%"/>
+</td>
+<td width="15%" align="right">
+<img src="https://img.shields.io/badge/UPLINK-SECURED-39ff14?style=flat-square&labelColor=0d0221" /><br/>
+<img src="https://img.shields.io/badge/VER-2.0.26-ff00c8?style=flat-square&labelColor=0d0221" />
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:ff00c8,50:00fff9,75:ff00c8,100:0d0221&height=250&section=header&text=ARYAN%20DAHIYA&fontSize=65&fontColor=00fff9&animation=twinkling&fontAlignY=35&desc=%3C%20AI%2FML%20ENGINEER%20%2F%2F%20RESEARCHER%20%2F%2F%20CYBERDECK%3AACTIVE%20%3E&descAlignY=58&descSize=18&descColor=ff00c8" width="100%"/>
+<div align="center">
 
 ```ansi
 [0;35m┌──────────────────────────────────────────────────────────┐[0m
@@ -23,7 +37,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,100:00fff9&height=6&width=100%25" width="100%"/>
 
 ### 📟 `> cat identity.log`
 
@@ -44,7 +58,16 @@ uplink_status: OPEN_TO_RESEARCH_INTERNSHIPS_AND_ML_ROLES
 signal: aryandahiya0416@gmail.com
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:ff00c8&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff9,100:ff00c8&height=6&width=100%25" width="100%"/>
+
+### 🧊 3D Contribution Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryan0416/aryan0416/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
+  <sub>🏙️ isometric render of the commit grid — auto-rebuilt daily, rotates through the year</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,100:00fff9&height=6&width=100%25" width="100%"/>
 
 ### 🐍 Live Neural Feed — Contribution Snake
 
@@ -53,7 +76,7 @@ signal: aryandahiya0416@gmail.com
   <sub>⚡ self-replicating // syncs with commit grid every 6hrs via GitHub Actions</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff9,100:ff00c8&height=6&width=100%25" width="100%"/>
 
 ### 📊 Neural Diagnostics
 
@@ -74,7 +97,7 @@ signal: aryandahiya0416@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan0416&theme=react-dark&hide_border=true&area=true&bg_color=0d0221&color=00fff9&line=ff00c8&point=ffffff" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:ff00c8&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,100:00fff9&height=6&width=100%25" width="100%"/>
 
 ### ⚙️ Loadout
 
@@ -88,7 +111,7 @@ signal: aryandahiya0416@gmail.com
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff9,100:ff00c8&height=6&width=100%25" width="100%"/>
 
 ### 🗂️ Active Payloads
 
@@ -123,7 +146,7 @@ Hands-on breach-testing of NIST PQC finalists — Kyber & Dilithium.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:ff00c8&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,100:00fff9&height=6&width=100%25" width="100%"/>
 
 ### 🏆 Mission Log
 
@@ -138,21 +161,33 @@ Hands-on breach-testing of NIST PQC finalists — Kyber & Dilithium.
 
 **Certifications unlocked:** `Neo4j Certified Professional` · `Python for Data Science, AI & Development` · `How to Boost Your Productivity with AI Tools` · `Leading like a Futurist`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff9,100:ff00c8&height=6&width=100%25" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="15%" align="left">
+<img src="https://img.shields.io/badge/PING-ONLINE-39ff14?style=flat-square&labelColor=0d0221" />
+</td>
+<td width="70%" align="center">
 
 ### 📡 Open a Channel
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aryan-dahiya">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
-  <a href="mailto:aryandahiya0416@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
-  <a href="https://buildwitharyan.xyz">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/aryan-dahiya">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
+</a>
+<a href="mailto:aryandahiya0416@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30"/>
+</a>
+<a href="https://buildwitharyan.xyz">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="30"/>
+</a>
+
+</td>
+<td width="15%" align="right">
+<img src="https://img.shields.io/badge/ENCRYPTION-ON-ff00c8?style=flat-square&labelColor=0d0221" />
+</td>
+</tr>
+</table>
 
 <div align="center">
 <sub>◢◤◢◤ end_transmission ◢◤◢◤</sub>
