@@ -81,8 +81,8 @@ signal: aryandahiya0416@gmail.com
 ### 📊 Neural Diagnostics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryan0416&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=00fff9&icon_color=ff00c8&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan0416&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=ffffff" />
+  <img height="165" src="https://raw.githubusercontent.com/aryan0416/aryan0416/main/profile/stats.svg" />
+  <img height="165" src="https://raw.githubusercontent.com/aryan0416/aryan0416/main/profile/top-langs.svg" />
 </div>
 
 <div align="center">
