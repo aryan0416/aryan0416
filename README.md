@@ -1,119 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Aryan%20Dahiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Research%20%E2%80%A2%20Web%20Dev&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:ff00c8,50:00fff9,75:ff00c8,100:0d0221&height=250&section=header&text=ARYAN%20DAHIYA&fontSize=65&fontColor=00fff9&animation=twinkling&fontAlignY=35&desc=%3C%20AI%2FML%20ENGINEER%20%2F%2F%20RESEARCHER%20%2F%2F%20CYBERDECK%3AACTIVE%20%3E&descAlignY=58&descSize=18&descColor=ff00c8" width="100%"/>
+
+```ansi
+[0;35m┌──────────────────────────────────────────────────────────┐[0m
+[0;36m│  SYSTEM BOOT ... OK                                        │[0m
+[0;36m│  IDENTITY VERIFIED: AR-0416                                 │[0m
+[0;35m│  LOCATION: CHANDIGARH_SECTOR // INDIA                       │[0m
+[0;36m│  CLEARANCE: AI/ML // COMPUTER_VISION // NLP // EMBEDDED     │[0m
+[0;35m└──────────────────────────────────────────────────────────┘[0m
+```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=BE+CSE+(AI+%26+ML)+%40+Chandigarh+University;Building+with+Deep+Learning+%26+Computer+Vision;Tinkering+with+ESP32+%2F+IoT;Exploring+Post-Quantum+Cryptography;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF00C8&background=0D0221&center=true&vCenter=true&repeat=true&width=750&lines=%3E+booting+neural_net.exe+...;%3E+training+CNNs+%2B+transformers+%F0%9F%A7%A0;%3E+jacking+into+ESP32+%2F+IoT+grids+%E2%9A%A1;%3E+breaching+post-quantum+cryptography+%F0%9F%94%90;%3E+deploying+agentic+AI+to+the+edge+%F0%9F%9A%80;%3E+status%3A+ONLINE_AND_SHIPPING" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=aryan0416&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aryan0416?label=Followers&style=for-the-badge&color=2c5364" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=aryan0416&label=INTRUSIONS%20DETECTED&color=ff00c8&style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/github/followers/aryan0416?label=NETWORK%20NODES&style=for-the-badge&color=00fff9&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_UPLINK-39ff14?style=for-the-badge&labelColor=0d0221" />
 </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
 
-### 🧬 `whoami`
+### 📟 `> cat identity.log`
 
 ```yaml
-name: Aryan Dahiya
-role: CSE (AI & ML) Undergrad @ Chandigarh University (w/ IBM)
-location: Chandigarh, India
-focus: [Deep Learning, Computer Vision, Embedded Systems, PQC, Satellite Data]
-currently_exploring: "Explainable & Robust Deep Learning for Trustworthy AI"
-fun_fact: "Trained a CNN before I could legally vote responsibly with my sleep schedule"
-reach_me: aryandahiya0416@gmail.com
+handle: Aryan Dahiya
+callsign: AI/ML Engineer & Researcher
+faction: Chandigarh University x IBM // BE CSE (AI & ML)
+sector: Chandigarh, India
+core_modules:
+  - Deep Learning & Computer Vision
+  - NLP (BERT / Transformers)
+  - Embedded Systems (ESP32, PCB, IoT)
+  - Post-Quantum Cryptography (Kyber, Dilithium)
+  - Neo4j Graph Systems [CERTIFIED]
+active_research: "Explainable + Robust Deep Learning for Trustworthy AI"
+scanning_for: [Agentic AI, Multimodal DL, Edge AI Deployment]
+uplink_status: OPEN_TO_RESEARCH_INTERNSHIPS_AND_ML_ROLES
+signal: aryandahiya0416@gmail.com
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:ff00c8&height=3&width=100%25" width="100%"/>
 
-### 🐍 Contribution Snake
+### 🐍 Live Neural Feed — Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryan0416/aryan0416/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
-  <sub>⚙️ Auto-generated daily via GitHub Actions — see setup note at the bottom</sub>
+  <img src="https://raw.githubusercontent.com/aryan0416/aryan0416/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+  <sub>⚡ self-replicating // syncs with commit grid every 6hrs via GitHub Actions</sub>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
 
-### 📊 The Numbers
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryan0416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan0416&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+### 📊 Neural Diagnostics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan0416&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryan0416&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=00fff9&icon_color=ff00c8&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan0416&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryan0416&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan0416&theme=github-dark-blue&hide_border=true&background=0D0221&stroke=FF00C8&ring=00FFF9&fire=FF00C8&currStreakLabel=00FFF9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan0416&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan0416&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
-
----
-
-### ⚙️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,js,react,nodejs,streamlit,aws,git,arduino,cpp" height="55"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan0416&theme=react-dark&hide_border=true&area=true&bg_color=0d0221&color=00fff9&line=ff00c8&point=ffffff" width="100%"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:ff00c8&height=3&width=100%25" width="100%"/>
 
-### 🔥 Flagship Builds
+### ⚙️ Loadout
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,js,react,nodejs,streamlit,aws,git,arduino&theme=dark" height="55"/>
+</div>
+
+<div align="center">
+
+`Public Speaking` &nbsp; `Streamlit` &nbsp; `BERT / NLP` &nbsp; `Neo4j` &nbsp; `Computer Vision` &nbsp; `Embedded Systems`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
+
+### 🗂️ Active Payloads
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 ResumeAI Pro**
-ATS resume screening & optimization tool that scores and rewrites resumes against job descriptions.
+**🧠 // RESUMEAI_PRO.exe**
+ATS resume screening & optimization engine — scores and rewrites resumes against target job descriptions.
 
 </td>
 <td width="50%" valign="top">
 
-**🛰️ Satellite Air Quality Downscaling**
-AI/ML pipeline that turns coarse satellite data into high-resolution air quality estimates.
+**🛰️ // SAT_AQ_DOWNSCALE.sys**
+AI/ML pipeline turning coarse satellite feeds into high-resolution air quality intel.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📡 RFID Attendance System**
-ESP32-powered attendance logger streaming straight into Google Sheets in real time.
+**📡 // RFID_ATTEND.fw**
+ESP32-powered attendance logger streaming live into Google Sheets.
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 Post-Quantum Crypto Playground**
-Hands-on work with NIST PQC finalists — Kyber & Dilithium.
+**🔐 // PQC_VAULT.crypt**
+Hands-on breach-testing of NIST PQC finalists — Kyber & Dilithium.
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff9,100:ff00c8&height=3&width=100%25" width="100%"/>
 
-### 🏆 Track Record
+### 🏆 Mission Log
 
 ```
-2025 — IBM AIML Intern (PBEL)            → CNN-based Dog vs Cat Classifier (TensorFlow/Keras)
-2024 — IEEE RAS Internship               → Embedded Systems, IoT, PCB Design
-2023 — IEEE Chandigarh University        → Core Team Member
+2026 ── TechTatva Club                    → Joint Secretary
+2026 ── IEEE Chandigarh University        → Webmaster (Mar '25 – Jun '26)
+2026 ── Chandigarh University             → Class Representative (Jan – May '26)
+2025 ── IEEE RAS x ComSoc (Hyderabad)     → Embedded Systems, IoT & PCB Design Intern
+2025 ── IBM PBEL                          → AI/ML Intern — CNN Dog vs. Cat Classifier (TF/Keras)
+2025 ── IEEE Chandigarh University        → Member
 ```
 
----
+**Certifications unlocked:** `Neo4j Certified Professional` · `Python for Data Science, AI & Development` · `How to Boost Your Productivity with AI Tools` · `Leading like a Futurist`
 
-### 🌐 Let's Build Something
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,100:00fff9&height=3&width=100%25" width="100%"/>
+
+### 📡 Open a Channel
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-dahiya">
@@ -127,6 +154,8 @@ Hands-on work with NIST PQC finalists — Kyber & Dilithium.
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
-
+<div align="center">
+<sub>◢◤◢◤ end_transmission ◢◤◢◤</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:ff00c8,50:00fff9,75:ff00c8,100:0d0221&height=150&section=footer" width="100%"/>
