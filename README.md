@@ -2,10 +2,10 @@
 <tr>
 <td width="15%" align="left">
 <img src="https://img.shields.io/badge/SECTOR-CHD__IND-ff00c8?style=flat-square&labelColor=0d0221" /><br/>
-<img src="https://img.shields.io/badge/CLASS-AI/ML__ENGINEER-00fff9?style=flat-square&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/CLASS-AI%2FML__ENGINEER-00fff9?style=flat-square&labelColor=0d0221" />
 </td>
 <td width="70%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:ff00c8,50:00fff9,75:ff00c8,100:0d0221&height=250&section=header&text=ARYAN%20DAHIYA&fontSize=62&fontColor=00fff9&animation=twinkling&fontAlignY=35&desc=%3C%20AI%2FML%20ENGINEER%20%2F%2F%20RESEARCHER%20%2F%2F%20CYBERDECK%3AACTIVE%20%3E&descAlignY=58&descSize=17&descColor=ff00c8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:ff00c8,50:00fff9,75:ff00c8,100:0d0221&height=250&section=header&text=ARYAN%20DAHIYA&fontSize=62&fontColor=00fff9&animation=twinkling&fontAlignY=35&desc=AI-ML%20ENGINEER%20-%20RESEARCHER%20-%20CYBERDECK%20ACTIVE&descAlignY=58&descSize=17&descColor=ff00c8" width="100%"/>
 </td>
 <td width="15%" align="right">
 <img src="https://img.shields.io/badge/UPLINK-SECURED-39ff14?style=flat-square&labelColor=0d0221" /><br/>
